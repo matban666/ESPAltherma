@@ -3,7 +3,6 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-src/setup.h
 private/
 .vscode/settings.json
 contrib/ldd_decoder/bin/
@@ -11,3 +10,4 @@ contrib/ldd_decoder/obj/
 contrib/ldd_decoder/label_defines.*
 src/my_setup.h
 DaikinLogger.sln
+src/secrets.h
